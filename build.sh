@@ -9,6 +9,7 @@ if [[ $# -lt 2 ]]; then
     exit 2
 fi
 
+
 app_name="$1"
 board_target="$2"
 shift 2
